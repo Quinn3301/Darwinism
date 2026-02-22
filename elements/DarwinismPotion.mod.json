@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Darwinism",
+    "splashName": "Splash Potion of Darwinism",
+    "lingeringName": "Lingering Potion of Darwinism",
+    "arrowName": "Arrow of Darwinism",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Darwinism"
+        },
+        "duration": 3600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}
