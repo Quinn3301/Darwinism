@@ -8,7 +8,7 @@ import net.mcreator.potionofdarwinism.procedures.AdaptationLogicProcedure;
 
 public class DarwinismMobEffect extends MobEffect {
 	public DarwinismMobEffect() {
-		super(MobEffectCategory.BENEFICIAL, -6684724);
+		super(MobEffectCategory.BENEFICIAL, -16732433);
 	}
 
 	@Override
