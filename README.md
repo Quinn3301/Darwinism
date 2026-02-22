@@ -10,5 +10,5 @@ Current Adaptations
 - **Efficiency Evolution:** Detecting repetitive impact against solid blocks triggers Haste II.
 - **Optic Adaptation:** Automatic Night Vision in light levels < 2.
 
-## 🛠 Technical Implementation
+Technical Implementation
 This mod utilizes **Persistent Player Variables** to track adaptation timers across game ticks, ensuring biological memory isn't lost during server lag or player movement.
