@@ -8,12 +8,12 @@ The core of the mod is the **Adaptation Logic**, which monitors your state 20 ti
 
 ### Kinetic Evolution
 * **Speed Burst:** Sprinting for more than 3 seconds (60 ticks) adapts your muscle fibers, granting a **Speed II** burst.
-* **Survival Instinct:** Swinging a tool or arm while facing blocks triggers **Haste II**, allowing for rapid-fire excavation.
+* **Survival Instinct:** Swinging a tool or arm while facing blocks triggers haste.
 * **Charge Jump:** Sneaking on the ground allows you to "charge" a leap. Once fully charged, you receive a powerful **Jump Boost IV**.
 
 ### Emergency Stabilization
 The serum enters an "overdrive" state when your life is threatened:
-* **Adrenaline Recovery:** Dropping below 3.5 hearts (7 HP) triggers a steady **Regeneration II** pulse.
+* **Adrenaline Recovery:** Taking damage grants you regeneration.
 * **Critical Overdrive:** Dropping below 1 heart (2 HP) grants **Resistance V** (total invulnerability) and **Regen V** for 10 seconds.
 * **Metabolic Jumpstart:** When starving (below 1 hunger shank), there is a 5% chance per tick to instantly regain hunger via **Saturation**.
 
